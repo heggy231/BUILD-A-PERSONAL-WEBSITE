@@ -8,3 +8,13 @@ ex)
 
 - To instruct the users what info to input: aka placeholder (add default text to input to inform user)
   <input type="email placeholder="Your email">
+
+# CSS basic:
+- HTML: structure of content that goes inside the tags.  Style by default browser style.
+
+- CSS: Controls the style of the HTML content.  CSS allows change colors, fonts, layout, and more!
+
+- For this lesson just add directly inside of HTML file
+<style>
+  
+
