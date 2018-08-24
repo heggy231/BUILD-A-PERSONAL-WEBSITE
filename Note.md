@@ -16,5 +16,13 @@ ex)
 
 - For this lesson just add directly inside of HTML file
 <style>
-  
 
+
+- property: controls one aspect of an HTML element's style, text-align, color, width, background, etc.
+// text-align is property here
+// center is value (options for text-align: left, right, center, justify)
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
