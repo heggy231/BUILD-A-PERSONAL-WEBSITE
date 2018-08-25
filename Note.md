@@ -90,3 +90,15 @@ Image Gallery
 Get a specific image by appending ?image to the end of the url
 
 https://picsum.photos/200/300?image=994
+
+* input styling
+  1) border to be 0
+  2) padding is space btwn edge of element and the stuff inside it.  
+  we will even it out for input element
+
+* call to action! Make the submit button noticeable.
+  select element by attributing square bracket
+  input[type="submit"] {
+    background: red;
+    color: white;
+  }
