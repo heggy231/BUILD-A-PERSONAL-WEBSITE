@@ -98,7 +98,16 @@ https://picsum.photos/200/300?image=994
 
 * call to action! Make the submit button noticeable.
   select element by attributing square bracket
+  ex)
   input[type="submit"] {
     background: red;
     color: white;
   }
+
+  ex) to style email 
+    <input type="email" placeholder="Your email">
+  input[type="email"] 
+  or
+  input[placeholder="Your email"]
+  
+  

@@ -10,4 +10,6 @@ PROJECT 1: BUILD A PERSONAL WEBSITE
 4) Build your own personal website
 
 ## Demo
+https://dash.generalassemb.ly/heggy/build-your-own-personal-website
+
 http://heggy.me/BUILD-A-PERSONAL-WEBSITE/
