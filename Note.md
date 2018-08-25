@@ -78,4 +78,4 @@ objective:
 * Add background img
   background: url("url");
   - Prevent img to look tied
-    background-size: cover; 
+    background-size: cover; // flexes as img 
