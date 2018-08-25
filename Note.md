@@ -40,4 +40,20 @@ The best way to select all elements at once is to have a parent element that con
 </body>
 
 - Before body, start with <head> which contains elements such as <style>, <title> not part of visible content on the web page.
+  * <title> goes before style tag inside of head tag.
 
+- How to tell Browswer we are using HTML5 markup?
+  * Write <!DOCTYPE html> first line before everything else!  this tells browser we're using the newest version, HTML5.
+
+- Boilerplate: basic foundation structure that every website have doctype, head, body
+
+<!DOCTYPE html>
+<head>
+  <!-- meta info goes here -->
+</head>
+<body>
+  <!-- Content goes here -->
+</body>
+
+3. 3 common styles
+ 1) background: black // change background color
