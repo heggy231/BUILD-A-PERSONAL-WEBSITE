@@ -62,3 +62,12 @@ The best way to select all elements at once is to have a parent element that con
 
 -- stage one (iteration 1) completed! --
 
+- Part 3: Images and form styling
+objective: 
+1) include logo img,
+2) Add a background img, 
+3) Style the email input form
+
+
+
+
