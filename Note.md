@@ -82,3 +82,11 @@ objective:
 
 * Form styles
   - font-size: 22px // making font-sz bigger!
+
+* resource for images unsplash it for background image
+https://picsum.photos/images
+Image Gallery
+
+Get a specific image by appending ?image to the end of the url
+
+https://picsum.photos/200/300?image=994
