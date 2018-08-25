@@ -58,4 +58,7 @@ The best way to select all elements at once is to have a parent element that con
 3. 3 common styles
  1) background: black; // change background color
  2) color: white; // font
- 3) font-family: helvetica; // change font look
+ 3) font-family: helvetica; // change font look using font-family!
+
+-- stage one (iteration 1) completed! --
+
