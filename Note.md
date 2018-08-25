@@ -26,3 +26,15 @@ ex)
     text-align: center;
   }
 </style>
+
+- How to select all tags to something?
+2) Document structure:
+The best way to select all elements at once is to have a parent element that contains all the other elements.
+ For HTML, <body> design for selecting all elements
+
+<body>
+<h1>Anna Dowlin</h1>
+<p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
+<input type="email" placeholder="Your email">
+<input type="submit">
+</body>
