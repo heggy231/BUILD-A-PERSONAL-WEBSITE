@@ -38,3 +38,6 @@ The best way to select all elements at once is to have a parent element that con
 <input type="email" placeholder="Your email">
 <input type="submit">
 </body>
+
+- Before body, start with <head> which contains elements such as <style>, <title> not part of visible content on the web page.
+
