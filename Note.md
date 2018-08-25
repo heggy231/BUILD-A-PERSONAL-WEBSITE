@@ -71,8 +71,9 @@ objective:
 
 - adding img: 
 <img src="/assets/anna.png">
-2 types of url
+* 2 types of url
 // relative url (works only file is on the same domain as the current pg)
 // absolute url (links includes http:// and full domain name before the directory (/assets/logo.png))
 
-
+* Add background img
+  background: url("url");
