@@ -79,3 +79,6 @@ objective:
   background: url("url");
   - Prevent img to look tied
     background-size: cover; // flexes as img 
+
+* Form styles
+  - font-size: 22px // making font-sz bigger!
