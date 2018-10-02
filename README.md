@@ -7,5 +7,4 @@ PROJECT 1: BUILD A PERSONAL WEBSITE
 3) Add a background image and logo
 4) Build your own personal website
 
-## Demo
-http://heggy.me/BUILD-A-PERSONAL-WEBSITE/
+## [Demo](http://heggy.me/BUILD-A-PERSONAL-WEBSITE/)
